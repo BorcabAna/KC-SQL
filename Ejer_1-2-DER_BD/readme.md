@@ -24,5 +24,3 @@ Las relaciones clave entre las tablas son:
 - Los **alumnos** pueden estar matriculados en varios **bootcamps**.
 - Un **bootcamp** tiene múltiples **módulos**, y cada módulo es impartido por un **profesor**.
 - Los **alumnos** reciben **calificaciones** por los **módulos** que cursan.
-
-Este modelo de base de datos permite gestionar el seguimiento de matrículas, profesores, módulos y calificaciones de manera eficiente.
